@@ -7,7 +7,7 @@ author: |
           Dept. of Computer Science \
           Iowa State University \
           Ames, IA, USA \
-date:   \today
+<> date:   \today
 header-includes: |
      \usepackage{amssymb}
      \usefonttheme[onlymath]{serif}
