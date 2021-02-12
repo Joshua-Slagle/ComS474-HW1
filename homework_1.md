@@ -28,13 +28,9 @@ header-includes: |
 
 1x5
 
-# Representation of $x$
-
-- $x$ is usually not a simple (vector of) number(s). How to tell it to a computer? 
-- Example: bananas vs. apples
-- **Feature engineering**: manually craft functions to **extract** features from raw data, e.g,. SIFT, bag-of-words. 
-- Automated feature extraction in deep learing: E.g., filters in CNNs. 
-- If $x$ involves categorical values (e.g., gender), there are usually two approaches: [**One-hot encoding**](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html) and [**embedding**]() (in DL context, to be discussed later). 
+# BONUS - Slide Show
+The following url will take you to my Slideous Slide Show: \
+https://joshua-slagle.github.io/ComS474-HW1/
 
 # Supervised ML
 - Given many pairs of inputs and outputs: $\{(\mathbf{X_1, y_1}), (\mathbf{X_2, y_2}), \dots, (\mathbf{X_N, y_N})\}$, 
